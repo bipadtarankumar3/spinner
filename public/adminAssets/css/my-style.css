@@ -1,0 +1,32 @@
+/* .page-wrapper{
+    background-image: url(../images/backgrounds/back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+} */
+
+body{
+    background-image: url('../images/backgrounds/bg2.jpg');
+}
+
+.sidebar-nav {
+    background: rgb(255,230,242);
+background: linear-gradient(184deg, rgba(255,230,242,0.8100490196078431) 0%, rgba(42,162,227,1) 100%);
+}
+
+.card-header{
+    background: rgb(255,230,242);
+    background: linear-gradient(184deg, rgba(255,230,242,0.8100490196078431) 0%, rgba(42,162,227,1) 100%);
+    color: white;
+}
+
+.card-header h5{
+    color: white;
+}
+
+.btn{
+    border-radius: 0px;
+}
+
+
